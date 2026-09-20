@@ -1,0 +1,10 @@
+{
+    "gpt-4.1": {
+        "input": 5,
+        "output": 15
+    },
+    "gpt-4.1-mini": {
+        "input": 0.15,
+        "output": 0.60
+    }
+}
